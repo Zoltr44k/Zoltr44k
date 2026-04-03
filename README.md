@@ -10,7 +10,7 @@
 <h1 align="center">Hi, ich bin Zoltr44k 👋</h1>
 
 <!-- ====================== CURRENTLY LEARNING ====================== -->
-## $$\color{#ffd700}{Currently Learning}$$
+## $$\color{#c4b5fd}{Currently Learning}$$
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -21,14 +21,14 @@
 ---
 
 <!-- ====================== GITHUB STATS ====================== -->
-### $$\color{#a5b4fc}{GitHub Stats}$$
+## $$\color{#a5b4fc}{GitHub Stats}$$
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoltr44k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoltr44k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoltr44k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zoltr44k&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zoltr44k&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" alt="Contribution Streak" />
 </p>
