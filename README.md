@@ -33,13 +33,4 @@
 
 <!-- ====================== GITHUB STATS ====================== -->
 ## $$\color{#a5b4fc}{GitHub Stats}$$
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoltr44k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoltr44k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zoltr44k&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" alt="Contribution Streak" />
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zoltr44k?cardType=github&theme=solarized-light&fontFamily=42dot%20Sans&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
