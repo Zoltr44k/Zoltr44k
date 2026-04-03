@@ -20,8 +20,6 @@
   just experimenting, breaking shit and putting it back together.
 </p>
 
----
-
 <!-- ====================== CURRENTLY LEARNING ====================== -->
 ## $$\color{#c4b5fd}{Currently Learning}$$
 
@@ -31,10 +29,7 @@
   <img src="https://img.shields.io/badge/QML-4A90E2?style=for-the-badge&logo=qt&logoColor=white" alt="QML" />
 </p>
 
----
-
 <!-- ====================== GITHUB STATS ====================== -->
-## $$\color{#a5b4fc}{GitHub Stats}$$
 ## $$\color{#a5b4fc}{GitHub Stats}$$
 
 <p align="center">
