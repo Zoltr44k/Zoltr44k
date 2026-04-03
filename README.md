@@ -7,7 +7,18 @@
 </p>
 
 <!-- ====================== ÜBER MICH ====================== -->
-<h1 align="center">Hi, ich bin Zoltr44k 👋</h1>
+<p align="center">
+  <strong>aight bro, i dont fking know what im doing but im here anyway.</strong>
+</p>
+
+<p align="center">
+  right now im working on my own Arch Linux rice called <span style="color:#a5b4fc;">"Umbrella"</span>.<br>
+  at the same time im trying to learn some stuff about <span style="color:#c4b5fd;">physics</span> and <span style="color:#c4b5fd;">aeronautics</span>.
+</p>
+
+<p align="center">
+  just experimenting, breaking shit and putting it back together. pure chaos... lol
+</p>
 
 <!-- ====================== CURRENTLY LEARNING ====================== -->
 ## $$\color{#c4b5fd}{Currently Learning}$$
