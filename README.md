@@ -33,4 +33,6 @@
 
 <!-- ====================== GITHUB STATS ====================== -->
 ## $$\color{#a5b4fc}{GitHub Stats}$$
+<p align="center">
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zoltr44k?cardType=github&theme=solarized-light&fontFamily=42dot%20Sans&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
+</p>
