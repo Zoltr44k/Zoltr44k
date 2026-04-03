@@ -2,17 +2,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zoltr44k/Zoltr44k/main/banner.jpg" 
        alt="Banner" 
-       width="100%" 
+       width="80%" 
        style="max-width: 1400px; border-radius: 12px;" />
 </p>
 
 <!-- ====================== ÜBER MICH ====================== -->
 <p align="center">
-  <strong>aight bro, i dont fking know what im doing but im here anyway.</strong>
+  <strong>aight bro, i dont fking know what im doing.</strong>
 </p>
 
 <p align="center">
-  right now im working on my own Arch Linux rice called <span style="color:#a5b4fc;">"Umbrella"</span>.<br>
+  right now im working on my Arch Linux rice called <span style="color:#a5b4fc;">"Umbrella"</span>.<br>
   at the same time im trying to learn some stuff about <span style="color:#c4b5fd;">physics</span> and <span style="color:#c4b5fd;">aeronautics</span>.
 </p>
 
