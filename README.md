@@ -1,6 +1,6 @@
 <!-- ====================== BANNER ====================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zoltr44k/Zoltr44k/main/uwu.gif" 
+  <img src="https://raw.githubusercontent.com/Zoltr44k/Zoltr44k/main/banner.jpg" 
        alt="Banner" 
        width="100%" 
        style="max-width: 1400px; border-radius: 12px;" />
