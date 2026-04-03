@@ -17,8 +17,10 @@
 </p>
 
 <p align="center">
-  just experimenting, breaking shit and putting it back together. pure chaos... lol
+  just experimenting, breaking shit and putting it back together.
 </p>
+
+---
 
 <!-- ====================== CURRENTLY LEARNING ====================== -->
 ## $$\color{#c4b5fd}{Currently Learning}$$
@@ -33,6 +35,12 @@
 
 <!-- ====================== GITHUB STATS ====================== -->
 ## $$\color{#a5b4fc}{GitHub Stats}$$
+## $$\color{#a5b4fc}{GitHub Stats}$$
+
 <p align="center">
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zoltr44k?cardType=github&theme=solarized-light&fontFamily=42dot%20Sans&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Zoltr44k?cardType=github&theme=solarized-light&fontFamily=42dot%20Sans&showIcons=false&preferLogin=false" 
+         alt="My Awesome Stats" 
+         height="200em" />
+  </a>
 </p>
