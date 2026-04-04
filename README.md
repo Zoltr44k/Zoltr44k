@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  just experimenting, breaking shit and putting it back together.
+  just experimenting and breaking shit.
 </p>
 
 <!-- ====================== CURRENTLY LEARNING ====================== -->
